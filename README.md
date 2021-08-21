@@ -80,6 +80,7 @@
   <li>StarUML</li>
 
   <h4>Usage of client</h4>
+	Client website: http://integrative-demo.herokuapp.com/
   <h5>Information on how to run the client<5>
 
 0. In order to config the urls for the client to work it is a few steps are needed:
